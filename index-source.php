@@ -28,7 +28,7 @@
                 </div>
             <div>
               <h2>wp.pl</h2>
-              <img src="http://gomobi.pl/data/uploads/2012/03/wirtualna_polska.jpg"/>
+              <img src="https://d.wpimg.pl/1851656530-369356744/wp.png"/>
               <p>Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz w przemyśle poligraficznym. Został po raz pierwszy użyty w XV w. przez nieznanego drukarza do wypełnienia tekstem próbnej książki. Pięć wieków później zaczął być używany przemyśle elektronicznym, pozostając praktycznie niezmienionym. Spopularyzował się w latach 60. XX w. wraz z publikacją arkuszy Letrasetu, zawierających fragmenty Lorem Ipsum, a ostatnio z zawierającym różne wersje Lorem Ipsum oprogramowaniem przeznaczonym do realizacji druków na komputerach osobistych, jak Aldus PageMaker</p>
               <p><a href="#" role="button">Czytaj więcej »</a></p>
            </div>
